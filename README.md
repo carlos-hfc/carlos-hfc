@@ -2,31 +2,30 @@
 
 # Carlos Faustino
 
-### Full-stack developer with a front-end focus
+### Front-end Developer
 
-I build React and TypeScript applications for agile teams, and I work on the back end with Node.js when a project needs it. Over 6+ years I've grown from junior developer to leading a front-end team, creating design systems, and mentoring junior developers.
+I build React and TypeScript applications for agile teams and work on Node.js back ends for my own projects. Since 2019 I've grown from junior developer to mid-level, leading a team of four front-end developers, creating a design system, and mentoring junior developers.
 
 ## Tech stack
 
-- **Front-end:** React, TypeScript, Next.js, Tailwind CSS, TanStack Query (React Query), Storybook
-- **Back-end:** Node.js, NestJS, Fastify, PostgreSQL, Prisma, Drizzle ORM
-- **Practices:** Design systems, code review, performance optimization, REST APIs
+- **Front-end:** React, TypeScript, Next.js, Tailwind CSS, TanStack Query
+- **Back-end:** Node.js, Fastify, PostgreSQL, Prisma, Drizzle ORM
+- **Testing:** unit and end-to-end tests on back-end services (Vitest, Jest)
 
 ## Featured projects
 
-- **[next-saas-rbac](https://github.com/carlos-hfc/next-saas-rbac):** multi-tenant SaaS boilerplate with authentication and role-based access control (Next.js, TypeScript, Prisma)
-- **[financial-control](https://github.com/carlos-hfc/financial-control):** monorepo personal finance app with a Fastify API and a React dashboard
-- **[food-app](https://github.com/carlos-hfc/food-app):** multi-frontend food delivery platform with customer and restaurant admin apps
+- **[financial-control](https://github.com/carlos-hfc/financial-control)**: personal finance app with a Fastify REST API and a React dashboard. Monorepo. Backend has unit and end-to-end tests.
+- **[food-app](https://github.com/carlos-hfc/food-app)**: food ordering platform with a customer app and a restaurant admin panel, backed by a Node.js API with JWT authentication and Zod validation. Backend has unit and end-to-end tests.
+
+## Learning projects
+
+- [next-saas-rbac](https://github.com/carlos-hfc/next-saas-rbac): built while following the "Creating SaaS with Next.js and RBAC" course by Rocketseat.
 
 ## Currently
 
-Looking for remote or hybrid full-stack and front-end roles. Open to relocation.
+Looking for remote or hybrid front-end and full-stack roles. Open to relocation to Portugal.
 
 ## Contact
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:chfcchfc96@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-faustino-992868115)
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React Badge](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+- Email: chfcchfc96@gmail.com
+- LinkedIn: [linkedin.com/in/carlos-faustino-992868115](https://www.linkedin.com/in/carlos-faustino-992868115)
